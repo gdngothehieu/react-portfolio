@@ -1,8 +1,8 @@
-# Sophia Ciocca
+# Brightlight Ngo
 
-#### [sophiaciocca.com](http://sophiaciocca.com)
+#### [Brightlightciocca.com](http://Brightlightciocca.com)
 
-Hi! I'm Sophia. I'm a full-stack software developer based in NYC.
+Hi! I'm Brightlight. I'm a full-stack software developer based in NYC.
 
 I'm comfortable throughout the stack, but my passion lies in the front end, at the intersection of code and design. I currently build software for the newsroom at the New York Times.
 
@@ -10,4 +10,4 @@ Previously, I've taught code to women at the Grace Hopper Program, served in the
 
 ---
 
-© 2017 Sophia Ciocca
+© 2017 Brightlight Ngo

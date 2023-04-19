@@ -150,17 +150,29 @@ class Code extends Component {
         <div>
           <CenteredHeader>Recent work:</CenteredHeader>
           <PortRow>
-            <a href="https://open.nytimes.com/building-a-text-editor-for-a-digital-first-newsroom-f1cb8367fc21" target="_blank">
+            <a
+              href="https://open.nytimes.com/building-a-text-editor-for-a-digital-first-newsroom-f1cb8367fc21"
+              target="_blank"
+            >
               <CodeThumbnail src={require("../assets/oakgif.gif")} />
             </a>
             <PortAllText>
               <PortTitle>The New York Times - Oak</PortTitle>
               <PortDescription>
-                Since November 2017, I've been working full-time on the Publishing team at the New York Times, creating an advanced text editor and adjacent technologies for the newsroom. This GIF demonstrates our newsroom-specific track-changes ("version diffing") feature -- one of dozens (hundreds?) that makes this software special.
+                Since November 2017, I've been working full-time on the
+                Publishing team at the New York Times, creating an advanced text
+                editor and adjacent technologies for the newsroom. This GIF
+                demonstrates our newsroom-specific track-changes ("version
+                diffing") feature -- one of dozens (hundreds?) that makes this
+                software special.
               </PortDescription>
               <PortDescription>
-                You can read more about Oak in my article on the Times Open blog: <br/>
-                <a href="https://open.nytimes.com/building-a-text-editor-for-a-digital-first-newsroom-f1cb8367fc21" target="_blank">
+                You can read more about Oak in my article on the Times Open
+                blog: <br />
+                <a
+                  href="https://open.nytimes.com/building-a-text-editor-for-a-digital-first-newsroom-f1cb8367fc21"
+                  target="_blank"
+                >
                   Building a Text Editor For a Digital-First Newsroom
                 </a>
               </PortDescription>
@@ -184,31 +196,35 @@ class Code extends Component {
               <PortTitleContainer>
                 <PortTitle>Align</PortTitle>
                 <PortButtonContainer>
-                  <PortButton href="https://align-a0b08.web.app" target="_blank">
+                  <PortButton
+                    href="https://align-a0b08.web.app"
+                    target="_blank"
+                  >
                     Demo
-                </PortButton>
+                  </PortButton>
                   <PortButton
                     href="https://github.com/align-capstone/align"
                     target="_blank"
                   >
                     Code
-                </PortButton>
+                  </PortButton>
                 </PortButtonContainer>
               </PortTitleContainer>
               <PortDescription>
-                My capstone project from the Grace Hopper Program, Align is a web
-                application for setting and managing long-term goals with a
+                My capstone project from the Grace Hopper Program, Align is a
+                web application for setting and managing long-term goals with a
                 beautiful and intuitive interface. It includes image uploading
                 capability, resource cards to save helpful links, a rich text
                 editor, and live updating using Firebase WebSocket integration.
               </PortDescription>
               <PortDescription>
                 I worked with two incredibly smart teammates to create Align in
-              three weeks. You can read about our process building it{" "}
+                three weeks. You can read about our process building it{" "}
                 <a href="https://medium.com/ladies-storm-hackathons/how-we-built-our-first-full-stack-javascript-web-app-in-three-weeks-8a4668dbd67c">
                   here
-              </a>.
-            </PortDescription>
+                </a>
+                .
+              </PortDescription>
               <UsedList>
                 <UsedItem>React.js</UsedItem>
                 <UsedItem>Firebase</UsedItem>
@@ -219,7 +235,10 @@ class Code extends Component {
           </PortRow>
           <hr />
           <PortRow>
-            <a href="https://github.com/sophiaciocca/ok-collab" target="_blank">
+            <a
+              href="https://github.com/Brightlightciocca/ok-collab"
+              target="_blank"
+            >
               <CodeThumbnail
                 src={require("../assets/OkCollabScreenshot.png")}
               />
@@ -229,7 +248,7 @@ class Code extends Component {
                 <PortTitle>OkCollab</PortTitle>
                 <PortButtonContainer>
                   <PortButton
-                    href="https://github.com/sophiaciocca/ok-collab"
+                    href="https://github.com/Brightlightciocca/ok-collab"
                     target="_blank"
                   >
                     Code
@@ -241,20 +260,21 @@ class Code extends Component {
                 building an app I always wished I'd had -- a social network for
                 musicians to find other musicians to collaborate with. It's like
                 OkCupid, except instead of dates it's for finding people to jam
-                with and make tracks. View all users, view each user's profile and
-                information, play their embedded Youtube videos, and see similar
-                users in the sidebar.
-            </PortDescription>
+                with and make tracks. View all users, view each user's profile
+                and information, play their embedded Youtube videos, and see
+                similar users in the sidebar.
+              </PortDescription>
               <PortDescription>
-                OkCollab is responsive and works on devices of all sizes. You can
-              watch me present it live{" "}
+                OkCollab is responsive and works on devices of all sizes. You
+                can watch me present it live{" "}
                 <a
                   href="https://www.youtube.com/watch?v=qyLoInHNjoc"
                   target="_blank"
                 >
                   here
-              </a>.
-            </PortDescription>
+                </a>
+                .
+              </PortDescription>
               <UsedList>
                 <UsedItem>React.js</UsedItem>
                 <UsedItem>Redux</UsedItem>
@@ -267,7 +287,10 @@ class Code extends Component {
           </PortRow>
           <hr />
           <PortRow>
-            <a href="https://github.com/limitless-leggings/limitless-leggings" target="_blank">
+            <a
+              href="https://github.com/limitless-leggings/limitless-leggings"
+              target="_blank"
+            >
               <CodeThumbnail
                 src={require("../assets/LimitlessLeggingsScreenshot.png")}
               />
@@ -289,7 +312,7 @@ class Code extends Component {
                 scratch. It includes products filterable by category; working
                 signup, login, and o-auth capabilities; and a working cart model
                 built in PostgreSQL.
-            </PortDescription>
+              </PortDescription>
               <UsedList>
                 <UsedItem>React.js</UsedItem>
                 <UsedItem>Redux</UsedItem>
